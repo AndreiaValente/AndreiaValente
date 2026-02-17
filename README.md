@@ -1,5 +1,3 @@
-# andreiavalente
-
 # Hi, I'm Andreia 👋
 
 PhD candidate in HCI & Psychophysiology at the Empathic Computing Lab (University of Auckland) and ITI/LARSyS (Instituto Superior Técnico). 
