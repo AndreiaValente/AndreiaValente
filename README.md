@@ -9,7 +9,7 @@ Open-source systems built for research projects.
 | | Tool | What it does |
 |---|---|---|
 | **♪** | [Unity-VSTi](https://github.com/andreiavalente/Unity-VSTi) | Host VST2 instruments in Unity via UDP. |
-| **📡** | [BLE4Unity](https://github.com/andreiavalente/BLE4Unity) | Plug-and-play Bluetooth Low Energy for Unity on Windows. Drop three files into your project and start streaming data from any BLE device. |
+| **📡** | [BLE4Unity](https://github.com/andreiavalente/BLE4Unity) | Plug-and-play Bluetooth Low Energy for Unity on Windows. Start streaming data from any BLE device straight into Unity applications. |
 
 ### 🛠 Tools
 Small tools I've built for my own workflow that might be useful to others.
